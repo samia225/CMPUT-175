@@ -33,6 +33,7 @@ if __name__ == '__main__':
     obstacle_positions = [(3, 'C'), (6, 'D'), (4, 'F'), (5, 'E'), (4, 'D')]
 
     main(number_players, obstacle_positions, filename)
+```
 
 ## **Log File**
 
